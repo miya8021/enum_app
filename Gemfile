@@ -34,6 +34,7 @@ group :development, :test do
 end
 
 gem 'rails-i18n', '~> 6.0'
+gem 'enum_help'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
