@@ -35,6 +35,9 @@ end
 
 gem 'rails-i18n', '~> 6.0'
 gem 'enum_help'
+gem 'activeadmin'
+gem 'devise'
+gem 'devise-i18n'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
